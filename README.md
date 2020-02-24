@@ -1,6 +1,8 @@
 # Homework 19, A react Clicky game
 It functions, and it is turned in.
+<br>
 [Goto the Github repo](https://github.com/jedmike/UCF-homework19ClickyGame)
+<br>
 [Play the Game! ](https://clickygamejed.herokuapp.com)
 
 
