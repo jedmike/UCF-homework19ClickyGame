@@ -1,6 +1,6 @@
-## This Application
-Mike Jedrzejewski's Employee React Directory App
-Utilises React for the front end.
+# Homework 19, A react Clicky game
+It functions, and it is turned in.
+
 
 
 
